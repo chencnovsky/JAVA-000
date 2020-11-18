@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+java0.springboot.configuration.StudentAutoConfiguration
